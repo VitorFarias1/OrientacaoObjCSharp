@@ -1,0 +1,15 @@
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\bin\Debug\net6.0\ClassesMetodosToString.exe
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\bin\Debug\net6.0\ClassesMetodosToString.deps.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\bin\Debug\net6.0\ClassesMetodosToString.runtimeconfig.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\bin\Debug\net6.0\ClassesMetodosToString.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\bin\Debug\net6.0\ClassesMetodosToString.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.csproj.AssemblyReference.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.AssemblyInfoInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.AssemblyInfo.cs
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.csproj.CoreCompileInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\refint\ClassesMetodosToString.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ClassesMetodosToString.genruntimeconfig.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\ClassesMetodosToString\obj\Debug\net6.0\ref\ClassesMetodosToString.dll

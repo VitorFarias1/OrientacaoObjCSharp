@@ -1,0 +1,15 @@
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\bin\Debug\net6.0\Enumeracao.exe
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\bin\Debug\net6.0\Enumeracao.deps.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\bin\Debug\net6.0\Enumeracao.runtimeconfig.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\bin\Debug\net6.0\Enumeracao.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\bin\Debug\net6.0\Enumeracao.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.AssemblyInfo.cs
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\refint\Enumeracao.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\Enumeracao.genruntimeconfig.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Enumeracao\obj\Debug\net6.0\ref\Enumeracao.dll

@@ -1,0 +1,15 @@
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\bin\Debug\net6.0\Lista.exe
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\bin\Debug\net6.0\Lista.deps.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\bin\Debug\net6.0\Lista.runtimeconfig.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\bin\Debug\net6.0\Lista.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\bin\Debug\net6.0\Lista.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.csproj.AssemblyReference.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.AssemblyInfoInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.AssemblyInfo.cs
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\refint\Lista.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\Lista.genruntimeconfig.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Lista\obj\Debug\net6.0\ref\Lista.dll

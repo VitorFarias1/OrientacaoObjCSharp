@@ -1,0 +1,15 @@
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\bin\Debug\net6.0\Exercicio14.exe
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\bin\Debug\net6.0\Exercicio14.deps.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\bin\Debug\net6.0\Exercicio14.runtimeconfig.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\bin\Debug\net6.0\Exercicio14.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\bin\Debug\net6.0\Exercicio14.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.csproj.AssemblyReference.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.AssemblyInfoInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.AssemblyInfo.cs
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\refint\Exercicio14.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\Exercicio14.genruntimeconfig.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Exercicio14\obj\Debug\net6.0\ref\Exercicio14.dll

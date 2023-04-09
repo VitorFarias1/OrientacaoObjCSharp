@@ -1,0 +1,15 @@
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\bin\Debug\net6.0\Sobreposicao.exe
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\bin\Debug\net6.0\Sobreposicao.deps.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\bin\Debug\net6.0\Sobreposicao.runtimeconfig.json
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\bin\Debug\net6.0\Sobreposicao.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\bin\Debug\net6.0\Sobreposicao.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.csproj.AssemblyReference.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.AssemblyInfo.cs
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\refint\Sobreposicao.dll
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.pdb
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\Sobreposicao.genruntimeconfig.cache
+C:\Users\anafa\Pojetos C#\OrientacaoObjetos\Sobreposicao\obj\Debug\net6.0\ref\Sobreposicao.dll
